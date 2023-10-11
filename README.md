@@ -1,10 +1,7 @@
 - 👋 Hi, I’m darshan pandya
-- 👀 I’m interested in ...
-- yoga, spiritality, photography, graphics, cooking, nature, music, guitar,
-- 🌱 I’m currently learning ...
-excel, paython, graphics, content creation,blogging
-- 💞️ I’m looking to collaborate on ...
-- content creater, yoga instruter, freelancers
+- 👀 I’m interested in ...yoga, spiritality, photography, graphics, cooking, nature, music, guitar,
+- 🌱 I’m currently learning ...excel, paython, graphics, content creation,blogging
+- 💞️ I’m looking to collaborate on ...content creater, yoga instruter, freelancers
 - 📫 How to reach me ...
 - 
 

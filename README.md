@@ -9,3 +9,4 @@ Used advanced Excel functions such as XLOOKUP, INDEX-MATCH, Pivot Tables, SUMIF,
 Building business-focused analytics projects.
 
 CPI Index 
+vehicle stolen analysis using AI with google colab
